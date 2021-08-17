@@ -18,6 +18,7 @@ public class SupperClass_parent {
     public double chickenLegend;
     public double chickenBurgerMeal;
     public double baconAndCheeseBurger;
+    public double text;
     
     public double vanilaShake;
     public double vanilaCone;
